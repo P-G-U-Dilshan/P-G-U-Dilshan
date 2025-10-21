@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://unsplash.com/photos/a-person-holding-a-piece-of-paper-over-a-laptop-9PwLeZA-RGc" alt="Hi, I'm P G U Dilshan" />
+  <img src="myimg.png" alt="Hi, I'm P G U Dilshan" />
 </p>
 
 <h1 align="center">Hi 👋, I'm P G U Dilshan</h1>
