@@ -38,13 +38,5 @@ My focus is on transforming raw data into meaningful insights that support busin
   <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="40"/>
 </p>
 
----
-
-## 📫 Contact Me
-
-📧 gamageudaradilshan@gmail.com  
-🔗 https://www.linkedin.com/in/pgudilshan/
-
----
 
 ⭐ I am currently focused on building real-world data projects and improving my data analysis skills.
